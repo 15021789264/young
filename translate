@@ -1,0 +1,22 @@
+000x5555
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class TodoListApp {
+    private static ArrayList<String> todoList = new ArrayList<>();
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String command;
+
+        System.out.println("欢迎使用 Todo List 应用！");
+        while (true) {
+            System.out.println("\n请输入命令（add / remove / list / exit）:");
+            command = scanner.nextLine().trim().toLowerCase();
+
+            switch (command) {
+                case "add":
+                    System.out.print("请输入要添加的任务: ");
+                    String task = scanner.nextLine();
+                    todoList.add(task);
+                    System.
