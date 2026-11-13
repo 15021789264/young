@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Young 项目",
+    "welcome": "欢迎来到 Young 项目",
+    "description": "一种全新的构建和翻译方式。"
+  },
+  "buttons": {
+    "save": "保存",
+    "cancel": "取消",
+    "switch_language": "切换语言"
+  },
+  "messages": {
+    "success": "操作成功完成",
+    "error": "发生错误"
+  }
+}
