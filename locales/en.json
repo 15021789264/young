@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Young Project",
+    "welcome": "Welcome to the Young Project",
+    "description": "A new way to build and translate."
+  },
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "switch_language": "Switch Language"
+  },
+  "messages": {
+    "success": "Action completed successfully",
+    "error": "An error occurred"
+  }
+}
