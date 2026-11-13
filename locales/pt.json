@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Projeto Young",
+    "welcome": "Bem-vindo ao Projeto Young",
+    "description": "Uma nova forma de construir e traduzir."
+  },
+  "buttons": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "switch_language": "Mudar Idioma"
+  },
+  "messages": {
+    "success": "Ação concluída com sucesso",
+    "error": "Ocorreu um erro"
+  }
+}
